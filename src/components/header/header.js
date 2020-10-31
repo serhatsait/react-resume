@@ -11,7 +11,7 @@ function Header() {
           <div className="container">
             <div className="navbar-translate">
               <a className="navbar-brand" href="#" rel="tooltip">
-                Creative CV
+                Serhat Sait
               </a>
               <button
                 className="navbar-toggler navbar-toggler"
